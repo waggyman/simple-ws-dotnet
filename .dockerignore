@@ -1,0 +1,9 @@
+bin/
+obj/
+publish/
+.vscode/
+.git/
+tests/
+*.user
+*.suo
+.idea/
